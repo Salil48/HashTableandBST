@@ -6,7 +6,6 @@ namespace HashTableandBST
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("***Hash Table Problem***");
             Console.WriteLine("***1.To find frequency of words *** ");
             Console.WriteLine("Enter the option");
